@@ -1,0 +1,10 @@
+.content
+{
+  Padding-top: 40px;
+Padding-bottom: 40px;
+  height: 900px;
+  min-height: 900px;
+  background-image: -webkit-linear-gradient(top, rgb(111, 168, 220) 1%, rgb(194, 123, 160) 99%);
+  position: relative;
+  z-index: 1;
+}
